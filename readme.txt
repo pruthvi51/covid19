@@ -1,6 +1,27 @@
-This project's main aim is to show covid19 data to people to create awareness.
+NAMES and ROLL no.
+Jaswanth srivan_160119733091
+Pruthvi nag-101
+Shashank-110
+Snehith-111
+Ch.Tharun reddy-116
+Vishnu vardhan-120
 
-you need to run main.py file for GUI to open up.
-you need to enter countries with first letter capital and for multiple countries use ','(comma) between the countries names.
-after that you need to select an option in the combobox which is a parameter
-then click on apply and run boxes to show you the result.
+PROJECT STATEMENT:
+This project's main aim is to show covid19 data to people in a graphical format.
+
+CONCEPTS COVERED:
+-MODULES AND PACKAGES
+-FUNCTIONS,LOOPS,BASIC PYTHON etc.
+-GRAPHICAL USER INTERFACE USING TKINTER
+-OBJECT ORIENTED PROGRAMMING
+-PYPLOT
+
+HOW TO USE:
+Run main.py file for GUI to open up.
+Enter countries with first letter capital and for multiple countries use ','(comma) between the countries names.
+Select an option in the combobox which is a parameter
+Click on apply and run boxes to show the GRAPH.
+
+sys requirements:
+-python 3.x
+-python packages:os,loader,PIL,tkinter,csv,matplotlib.
