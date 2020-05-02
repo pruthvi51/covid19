@@ -39,7 +39,7 @@ def run():
             x=range(0,i)
         plt.style.use('seaborn')
         plt.plot(x,y,label = h,marker='.')
-    
+        plt.annotate(max(y),(x[y.index(max(y))],max(y)))
     plt.xlabel('DAYS FROM JANUARY 2020--->')
     plt.ylabel(q[-1]+'--->')
     #plt.grid()
@@ -85,13 +85,15 @@ c1['values']=('new deaths','total deaths','new cases','total cases')
 c1.current(0)
 
 b1 = Button(window, text='apply',command = clicked) 
-b1.place(x=290,y=200)
+b1.place(x=280,y=200)
 
 b2 = Button(window, text='RUN',command = run)
-b2.place(x=290,y=225)
+b2.place(x=280,y=260)
 
 window.mainloop()
 #</GUI>
+
+
 
 
 
