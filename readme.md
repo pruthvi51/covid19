@@ -1,9 +1,9 @@
 /* THIS IS A SIMPLE APPLICATION FOR OBSERVING COVID 19 DATA AS A GRAPH FOR ANY COUNTRY IN THE WORLD  */ 
 
 
-                                    ![representational image](https://github.com/pruthvi51/covid19/blob/master/pics/pic1.PNG)
-                                    ![representational image](https://github.com/pruthvi51/covid19/blob/master/pics/pic2.PNG)
-                                    ![representational image](https://github.com/pruthvi51/covid19/blob/master/pics/pic3.PNG)
+![representational image](https://github.com/pruthvi51/covid19/blob/master/pics/pic1.PNG)
+![representational image](https://github.com/pruthvi51/covid19/blob/master/pics/pic2.PNG)
+![representational image](https://github.com/pruthvi51/covid19/blob/master/pics/pic3.PNG)
 
 PROJECT STATEMENT:
 This project's main aim is to show covid19 data in a graphical format and grow awareness.
