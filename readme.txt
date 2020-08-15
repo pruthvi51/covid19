@@ -1,10 +1,7 @@
-NAMES and ROLL no.
-Jaswanth srivan_160119733091
-Pruthvi nag-101
-Shashank-110
-Snehith-111
-Ch.Tharun reddy-116
-Vishnu vardhan-120
+/* THIS IS A SIMPLE APPLICATION FOR OBSERVING COVID 19 DATA AS A GRAPH FOR ANY COUNTRY IN THE WORLD  */ 
+
+
+
 
 PROJECT STATEMENT:
 This project's main aim is to show covid19 data in a graphical format and grow awareness.
