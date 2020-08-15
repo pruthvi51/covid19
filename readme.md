@@ -3,7 +3,7 @@
 
 ![representational image](https://github.com/pruthvi51/covid19/blob/master/pics/pic1.PNG)
 ![representational image](https://github.com/pruthvi51/covid19/blob/master/pics/pic2.PNG)
-![representational image](https://github.com/pruthvi51/covid19/blob/master/pics/pic3.PNG)
+![representational image](https://github.com/pruthvi51/covid19/blob/master/pics/pic3.png)
 
 PROJECT STATEMENT:
 This project's main aim is to show covid19 data in a graphical format and grow awareness.
