@@ -1,6 +1,9 @@
 /* THIS IS A SIMPLE APPLICATION FOR OBSERVING COVID 19 DATA AS A GRAPH FOR ANY COUNTRY IN THE WORLD  */ 
 
-![Alt text](pics/pic1.jpg?raw=true "Title")
+<p>
+  <img src="pics/pic2.jpg">
+</p>
+![Alt text](covid19pics/pic1.jpg?raw=true "Title")
 ![Alt text](pics/pic2.jpg?raw=true "Title")
 ![Alt text](pics/pic3.jpg?raw=true "Title")
 
