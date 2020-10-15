@@ -1,6 +1,6 @@
-This is a mini project for python class in 2nd semester
+This is my contribution to a mini group project for python class in 2nd semester.
 
-/* THIS IS A SIMPLE APPLICATION FOR OBSERVING COVID 19 DATA AS A GRAPH FOR ANY COUNTRY IN THE WORLD*/   
+/*THIS IS A SIMPLE APPLICATION FOR OBSERVING COVID 19 DATA AS A GRAPH FOR ANY COUNTRY IN THE WORLD*/   
 
 
 ![representational image](https://github.com/pruthvi51/covid19/blob/master/pics/pic1.PNG)  
